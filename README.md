@@ -1,4 +1,4 @@
-##ASE APJ Team Bravo - Software Project Q3FY17
+## ASE APJ Team Bravo - Software Project Q3FY17
 This repository contains code for the software project of ASE APJ Team Bravo.
 
 The project is organized in a 3 step process, notably:
@@ -10,24 +10,24 @@ You will find the corresponding folders for each step.
 
 
 
-###Team Members
+### Team Members
 * Parul Sharma
 * Megha Chaudhary
 
 
 
-###Coaches/Sponsors
+### Coaches/Sponsors
 * Conor Murphy
 * Carlos Silvestre Cabral
 * Motoi,Iku Yanagida
 * Christian Jaeckel
 
-##Products in this project
+### Products in this project
 * [Cisco NX-OS Software](http://www.cisco.com/c/en/us/products/ios-nx-os-software/nx-os/index.html)
 * [Cisco UCS Manager](http://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-manager/index.html)
 
 
-###API Documentation
+### API Documentation
 * [Programmability and Automation with Cisco Open NX-OS](http://www.cisco.com/c/dam/en/us/td/docs/switches/datacenter/nexus9000/sw/open_nxos/programmability/guide/Programmability_Open_NX-OS.pdf)
 * [Cisco DevNet: Open NX-OS](https://developer.cisco.com/site/nx-os/)
 * [Cisco DevNet: UCS Dev Center](https://developer.cisco.com/site/ucs-dev-center/)
@@ -38,5 +38,5 @@ You will find the corresponding folders for each step.
 
 
 
-###Sample Application - coming soon
+### Sample Application - coming soon
 Coming soon
