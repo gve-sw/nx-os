@@ -3,22 +3,18 @@
 import requests
 import json
 import argparse
-
+import getpass
+import sys
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-i','--ip',help='Switch IP address', required=True)
-parser.add_argument('-p','--password',help='Switch Username', required=True)
-parser.add_argument('-u','--user',help='Switch user', required=True)
+parser.add_argument('-u','--user',help='Switch username', required=True)
 args = parser.parse_args()
 
-
-"""
-Modify these please
-"""
 url='http://' +args.ip+ '/ins'
 
 switchuser=args.user
-switchpassword=args.password
+switchpassword=getpass.getpass('Password:',stream=sys.stderr)
 
 myheaders={'content-type':'application/json'}
 payload={
